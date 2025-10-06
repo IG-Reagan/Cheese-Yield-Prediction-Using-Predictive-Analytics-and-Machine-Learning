@@ -1,6 +1,7 @@
-# Predictive Yield Modeling for Artisan Cheesemaking (Digital Twin Framework)
+# Predictive Yield Modeling for Artisan Cheesemaking - a Digital Twin Framework
 
 ## Project Overview: Bridging Artistry and Analytics
+Created December 2022 / Presented at the Operational Research Society Annual Conference OR66 in Bangor, Wales (2024).
 
 This project develops an advanced predictive machine learning model to provide British cheesemakers with **deeper, actionable insights** into the factors driving product yield and quality, addressing the high variability inherent in biological food manufacturing.
 
@@ -84,9 +85,9 @@ If you utilise the methodology or results of this predictive modelling project i
 
 **Author-Date (Harvard) Style:**
 
-> Iziomo, G. R., & Luo, J. (2024). *AI-powered Cheese Yield Prediction: Applying ML to Develop a "Digital Twin" for Optimising Yields in Cheese Make*. Abstract presented at **OR66: The 66th Annual Conference of the Operational Research Society**, Warwick, UK. September 12, 2024, p. 148.
+> Iziomo, G. R., & Luo, J. (2024). *AI-powered Cheese Yield Prediction: Applying ML to Develop a "Digital Twin" for Optimising Yields in Cheese Make*. Abstract presented at **OR66: The 66th Annual Conference of the Operational Research Society**, Bangor, Wales. September 12, 2024, p. 50.
 
-**In-Text Citation:** (Iziomo & Luo, 2024, p. 148)
+**In-Text Citation:** (Iziomo & Luo, 2024, p. 50)
 
 The abstract is publicly available in the conference book:
 [https://www.theorsociety.com/common/Uploaded%20files/Events/OR66/OR66%20Abstract%20Book\_1.pdf](https://www.theorsociety.com/common/Uploaded%20files/Events/OR66/OR66%20Abstract%20Book_1.pdf)
