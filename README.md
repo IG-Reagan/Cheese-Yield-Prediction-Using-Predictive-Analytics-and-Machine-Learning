@@ -73,7 +73,7 @@ In future iterations, this model will be improved to generalise better and integ
 * **Predictive Forecasting:** Input current make-process variables and receive an instantaneous yield prediction.
 * **Scenario Simulation:** Adjust variables (e.g., "What if I scald at 38°C instead of 40°C?") and see the predicted impact on yield and quality metrics.
 * **Anomaly Detection:** Flag production runs where process inputs deviate significantly, alerting experts before a batch is compromised.
-* **Standardization:** Help formalize the "tacit judgment" of affineurs by correlating sensory outcomes with the model's key predictive features.
+* **Standardisation:** Help formalise the "tacit judgment" of affineurs by correlating sensory outcomes with the model's key predictive features.
 
 ---
 
